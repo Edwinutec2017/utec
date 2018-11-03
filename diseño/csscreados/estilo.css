@@ -1,0 +1,90 @@
+/*pagina de login */
+
+#principal{
+    padding-top: 100px;
+    background-color: #d8d8d8;
+
+}
+#contenedor{
+    width: auto;
+}
+#logo{
+
+    position:relative;
+    width: 100%;
+}
+#logoimg{
+    width: 50%;
+
+}
+#titulo,#cuerpo{
+    align-content: center;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-style: solid;
+    background-color:#ffffff;
+}
+#lbl{
+    padding-top:5px;
+
+    color: #990000;
+}
+
+/*------------------------------------------*/
+/*pagina de registro de laboratorios*/
+#contenedorlab{
+
+    background-color:#d8d8d8;   
+}
+#bannerlab{
+    color: #d8d8d8;
+    background-color: #990000;
+    text-align:right;
+    padding-top: 20px;
+}
+.container{padding-top: 15px;
+}
+#contenido{
+   
+    border-color: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    background-color:#d8d8d8;
+}
+#registro{
+    align-content: center;
+    border-color: #cccccc;
+    background-color:#ffffff; 
+}
+#bannercontenido{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    position:relative;
+
+    background-color: #ffffff;
+}
+#lblbaner{
+    text-align: center;
+    padding-right: 50px;
+    color: #ffffff;
+
+}
+#btn{
+    background-color: #000;
+    color:#ffffff;
+    padding-left: 10px;
+}
+#logoReg{
+    padding-top: 210PX;
+    position:relative;
+    width: 100%;
+}
+#pie{
+    width: 96%;
+    height: 50px;
+    right: 10px;
+    position:absolute;
+    bottom: 0;
+    background-color: #ffffff;
+}
